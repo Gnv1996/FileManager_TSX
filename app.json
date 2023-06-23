@@ -1,0 +1,11 @@
+{
+  "name": "scriptProject",
+  "displayName": "scriptProject",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "2e7a2675-0739-475c-b89e-9c7ba749f437"
+      }
+    }
+  }
+}
